@@ -21,10 +21,10 @@ More languages may be added in the future.
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 2      |
+| 🟢 Easy    | 3      |
 | 🟡 Medium  | 1      |
 | 🔴 Hard    | 0      |
-| **Total**  | **3**  |
+| **Total**  | **4**  |
 
 
 ## ⭐ Why This Repository?
